@@ -14,9 +14,9 @@ class Config:
     BOT_TOKEN = getenv("BOT_TOKEN", "1234:abcd")
     SESSION = getenv("SESSION", "session")
     OWNER_ID = int(getenv("OWNER_ID", "1952053555"))
-    SUPPORT = getenv("SUPPORT", "https://t.me/solidprojects_chat")
-    CHANNEL = getenv("CHANNEL", "https://t.me/solidprojects")
-    UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/DoellBarr/solidmusic")
+    SUPPORT = getenv("SUPPORT", "https://t.me/GpManagerVoiceChat")
+    CHANNEL = getenv("CHANNEL", "https://t.me/ManagerVoiceChat")
+    UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://t.me/CarbonAbi")
 
 
 config = Config()
