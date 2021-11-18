@@ -14,6 +14,7 @@ lang_flags = {
     "id": f"{emoji.FLAG_INDONESIA} Indonesia",
     "pt": f"{emoji.FLAG_PORTUGAL} Portuguese",
     "ta": f"{emoji.FLAG_INDIA} Tamil"
+    "ar": f"{emoji.FLAG_INDIA} Arabic"
 }
 
 for file in listdir(lang_folder):
